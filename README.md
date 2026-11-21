@@ -5,7 +5,7 @@
 ## 快速开始
 
 ```bash
-git clone https://github.com/<你的用户名>/拔棍.git
+git clone https://github.com/suiyvan/bagun.git
 ```
 
 ## 许可证
